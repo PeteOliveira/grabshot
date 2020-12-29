@@ -18,7 +18,7 @@ GEM
     queue_classic (2.1.4)
       multi_json (~> 1.7.2)
       pg (~> 0.15.1)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.0)
       rack
     rake (10.0.4)
