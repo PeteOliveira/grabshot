@@ -9,7 +9,7 @@ gem 'rake'
 gem 'sinatra'
 gem 'multi_json'
 gem 'slim'
-gem "puma", "~> 2.0.0.b6"
+gem "puma", "~> 4.3.8"
 gem 'queue_classic'
 gem 'pry'
 
